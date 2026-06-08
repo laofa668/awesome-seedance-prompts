@@ -1,32 +1,51 @@
 # Awesome Seedance Prompts
 
-A curated collection of the best Seedance AI video prompts.
+A curated collection of high-quality Seedance 2 cinematic prompts and camera movement prompts.
+
+🌐 Official Website
+
+https://www.seedance-2.ink
 
 ## Featured Resource
 
-🌐 Cinematic Film Prompts
-
 https://www.seedance-2.ink/video-prompts/cinematic-film
 
-## Cinematic Prompt Example
+---
 
-A cinematic close-up shot of a warrior standing in heavy rain, dramatic lighting, shallow depth of field, ultra realistic, film grain, Hollywood movie style.
+## Prompt Collections
 
-## Camera Movement Prompt
+### 🎬 Cinematic Film Prompts
 
-A smooth dolly-in camera movement toward a futuristic city skyline at sunset.
+20 professional cinematic prompts inspired by Hollywood filmmaking.
 
-## Action Scene Prompt
+➡️ See:
 
-A fast-paced chase sequence through neon-lit streets, dynamic camera movement, cinematic lighting.
+[cinematic-prompts.md](./cinematic-prompts.md)
 
-## Resources
+---
 
-* Cinematic Video Prompts
-* AI Video Prompt Examples
-* Text-to-Video Prompt Engineering
-* Seedance Prompt Library
+### 📷 Camera Movement Prompts
 
-More prompts:
+20 Hollywood camera movement prompts including dolly shots, crane shots, orbit shots, drone reveals and tracking shots.
 
-https://www.seedance-2.ink/video-prompts/cinematic-film
+➡️ See:
+
+[camera-movement-prompts.md](./camera-movement-prompts.md)
+
+---
+
+## Topics Covered
+
+* Cinematic Storytelling
+* Camera Movement
+* AI Video Generation
+* Text-to-Video
+* Prompt Engineering
+* Film Direction
+* Visual Storytelling
+
+---
+
+Official Website:
+
+https://www.seedance-2.ink
